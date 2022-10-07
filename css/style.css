@@ -2,7 +2,7 @@
 :root {
     --black-color: #000;
     --dark-color: #09483b;
-    --light-color: #bae3ea;
+    --light-color: #e2ebef;
     --gray-color: #a1a1a1;
     --white-color: #fff;
     --bleu-comi: #06559d;
@@ -163,10 +163,6 @@ h2, h3 {
 .home .container img {
     max-width: 100%
 }
-img {
-    max-width: 60%
-}
-
 
 /* end home */
 
