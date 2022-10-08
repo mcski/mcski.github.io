@@ -493,7 +493,7 @@ form input {
 form input:focus {
     outline: none;
 }
-form button {
+button {
     color: var(--light-color);
     background-color: var(--black-color);
 
@@ -505,7 +505,7 @@ form button {
     cursor: pointer;
     transition: var(--main-transition);
 }
-form button:hover {
+button:hover {
     background-color: var(--bleu-comi);
 }
 footer {
