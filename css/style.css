@@ -1,3 +1,7 @@
+@font-face {
+	font-family: CARTOON FREE;
+	src: url('../webfonts/CARTOON FREE.otf') format('opentype'));
+}
 /* start variables */
 :root {
     --black-color: #000;
@@ -33,6 +37,9 @@ a {
 a, span {
     display: block;
 }
+h1{
+    font-family: CARTOON FREE;
+} 
 h2{
     font-size: 30px;
 }
