@@ -18,6 +18,11 @@
 }
 /* end variables */
 
+video {
+  height: 100%;
+  width: 100%;
+}
+
 /* start global rules */
 * {
     box-sizing: border-box;
