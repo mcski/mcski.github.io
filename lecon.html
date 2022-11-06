@@ -4,88 +4,71 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Martin Carmichael, Moniteur de ski</title>
+    <title>Martin Carmichael, Leçon de ski</title>
     <!-- Main CSS file -->
-    <link rel="stylesheet" href="../css/style.css">
+    <link rel="stylesheet" href="css/style.css">
     <!-- Normalize file -->
-    <link rel="stylesheet" href="../css/normalize.css">
+    <link rel="stylesheet" href="css/normalize.css">
     <!-- Font Awesome -->
-    <link rel="stylesheet" href="../css/all.min.css">
+    <link rel="stylesheet" href="css/all.min.css">
     <!-- Google Fonts -->
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat">
 </head>
 <body>
     <!-- Sidebar (visible on medium and large screens) -->
     <div class="sidebar">
-        <img src="../images/avatar_smoke.jpg" alt="avatar photo">
+        <img src="images/avatar_smoke.jpg" alt="avatar photo">
         <div class="icons">
-            <a href="../index.html#home">
+            <a href="index.html#home">
                 <i class="fa fa-home"></i>
-                <span>Martin</span>
+                <span>accueil</span>
             </a>
-
-            <a href="#" class="active">
-                <i class="fa fa-camera"></i>  
-                <span>Dan les</br>Chaises</span>
+            <a href="#lecon" class="active">
+                <i class="fa fa-user"></i>
+                <span>Leçon </br>de ski</span>
             </a>
-
-            <a href="#1">
-                <i class="fa fa-camera"></i>  
-                <span>30 mars 2022</span>
+           <a href="#contact">
+                <i class="fa fa-envelope"></i>
+                <span>contact</span>
             </a>
-
-            <a href="#2">
+            <a href="password.html#password">
                 <i class="fa fa-camera"></i>  
-                <span>15 avril 2022</span>
-            </a>
-            <a href="videos.html">
-                <i class="fa fa-camera"></i>  
-                <span>Vidéos</span>
+                <span>vidéos</span>
             </a>
 
         </div>
     </div>
     <!-- Navbar (visible on small screens) -->
     <div class="navbar">
-        <a href="videos.html">Vidéos</a>
+        <a href="index.html#home">accueil</a>
+        <a href="#lecon">Leçon de ski</a>
+        <a href="password.html#password">vidéos</a>
     </div>
 
     <!-- start home -->
     <div class="home" id="home">
         <div class="container">
             <div class="text">
-                <h1>Dan lesChaises</h1>
-                <p>Vidéos de ski au Mont-Comi</p>
+                <h1>Martin Carmichael</h1>
+                <p>Moniteur de ski au Mont-Comi</p>
             </div>
         </div>
     </div>
     <!-- end home -->
 
-    
-    <!-- start videos -->
-    <div class="photos" id="photos">
-  	  <p id="1">
-		<video controls poster="../images/video.jpg">
-		<source src="../videos/c1.mp4" type="video/mp4">
-		Your browser does not support the video tag.  Votre Navigateur ne supporte pas les vidéos.
-		</video></br>
-	        <i class="fa fa-camera"></i>  
-		Vidéo du 30 mars 2022.
-	        </br>
-	  </p>
-	  <p id="2">
-	    </br>
-		<video controls poster="../images/video.jpg">
-		<source src="../videos/c2.mp4" type="video/mp4">
-		Your browser does not support the video tag.  Votre Navigateur ne supporte pas les vidéos.
-		</video></br>
-		<i class="fa fa-camera"></i>  
-		Vidéo du 15 avril 2022
-		</br>
-	  </p>
-
+    <!-- start about -->
+    <div class="about" id="lecon">
+        <div class="container">
+            <div class="my-name">
+                <h2>Sécurité en ski</h2>
+                <p>
+		Le code des couleurs des pistes de ski au Québec</br>
+            	<img src="images/niveauxdespistes.jpg" alt="">
+		</p>
+            </div>
+         </div>
     </div>
-    <!-- end photos -->
+
 
     <!-- start contact -->
     <div class="contact" id="contact">
