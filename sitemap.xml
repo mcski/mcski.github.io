@@ -3,32 +3,12 @@
 		<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 	<loc>https://mcski.github.io/</loc>
-	<lastmod>2022-12-14T18:35:25+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://mcski.github.io/lecon.html</loc>
-	<lastmod>2022-12-14T18:35:25+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://mcski.github.io/ski.html</loc>
-	<lastmod>2022-12-14T18:35:25+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://mcski.github.io/password.html</loc>
-	<lastmod>2022-12-14T18:35:25+01:00</lastmod>
+	<lastmod>2022-12-04T18:35:25+01:00</lastmod>
 	<priority>1.0</priority>
 </url>
 <url>
 	<loc>https://mcski.github.io/index.html</loc>
-	<lastmod>2022-12-14T18:35:25+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://mcski.github.io/decembre.html</loc>
-	<lastmod>2022-12-14T18:35:27+01:00</lastmod>
+	<lastmod>2023-12-04T18:35:25+01:00</lastmod>
 	<priority>1.0</priority>
 </url>
 </urlset>
